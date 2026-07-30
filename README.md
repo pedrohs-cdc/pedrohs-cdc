@@ -39,7 +39,7 @@ Depois de mais de 5 anos atuando nas áreas administrativa e de logística, deci
 | [Quiz — Engenharia de Prompt](https://quiz-ia-zeta.vercel.app/) | Simulado de provas da faculdade sobre engenharia de prompt | Estudos da Faculdade |
 | [Quiz — Python](https://quiz-py.vercel.app/) | Simulado de provas da faculdade sobre Python | Estudos da Faculdade |
 | Controle de Gastos | Registro de gastos diários e mensais, com sincronização em nuvem | Pessoal |
-| SLOWARD *(em construção)* | Loja de roupas streetwear — projeto pessoal ainda em desenvolvimento | Pessoal |
+| Loja de Roupas Slw *(em construção)* | Loja de roupas streetwear — projeto pessoal ainda em desenvolvimento | Pessoal |
 
 *Atividade da Faculdade: projeto avaliado dentro do curso. Estudos da Faculdade: material próprio de apoio para provas.*
 
@@ -91,8 +91,6 @@ Mais de 5 anos de experiência nas áreas administrativa e de logística, hoje a
 - **Ciência da Computação** — Unifran (Franca-SP) — cursando, iniciando o 2º semestre
 - **Inglês** — KNN Idiomas — cursando
 - **Google AI** — Certificados via Coursera (2026)
-- **Confeccionador de Calçados** — 800h (SENAI)
-
 
 <!-- Pedro: se tiver outras formações, cursos ou certificados, me avisa que eu incluo aqui -->
 
