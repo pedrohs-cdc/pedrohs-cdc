@@ -39,7 +39,7 @@ Depois de mais de 5 anos atuando nas áreas administrativa e de logística, deci
 | [Quiz — Engenharia de Prompt](https://quiz-ia-zeta.vercel.app/) | Simulado de provas da faculdade sobre engenharia de prompt | Estudos da Faculdade |
 | [Quiz — Python](https://quiz-py.vercel.app/) | Simulado de provas da faculdade sobre Python | Estudos da Faculdade |
 | Controle de Gastos | Registro de gastos diários e mensais, com sincronização em nuvem | Pessoal |
-| Loja de Roupas Slw *(em construção)* | Loja de roupas streetwear — projeto pessoal ainda em desenvolvimento | Pessoal |
+| SLOWARD *(em construção)* | Loja de roupas streetwear — projeto pessoal ainda em desenvolvimento | Pessoal |
 
 *Atividade da Faculdade: projeto avaliado dentro do curso. Estudos da Faculdade: material próprio de apoio para provas.*
 
@@ -48,16 +48,23 @@ Depois de mais de 5 anos atuando nas áreas administrativa e de logística, deci
 ### Habilidades do primeiro semestre
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,figma" alt="Habilidades" />
-  <img src="https://img.shields.io/badge/-1A1A2E?style=for-the-badge&logo=openai&logoColor=white" alt="IA / Prompt Engineering" />
-  <img src="https://img.shields.io/badge/-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/IA%20%2F%20Prompt%20Engineering-1A1A2E?style=for-the-badge&logo=openai&logoColor=white" alt="IA / Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
 </p>
 
 ### Tecnologias utilizadas nos projetos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs" alt="Tecnologias" />
-  <img src="https://img.shields.io/badge/-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Automação de Navegador" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20de%20Navegador-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Automação de Navegador" />
 </p>
 
 ---
@@ -90,11 +97,6 @@ Mais de 5 anos de experiência nas áreas administrativa e de logística, hoje a
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohs-cdc&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohs-cdc&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
-</p>
 
 <p align="center">
   <picture>
