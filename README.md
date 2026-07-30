@@ -91,8 +91,8 @@ Mais de 5 anos de experiência nas áreas administrativa e de logística, hoje a
 - **Ciência da Computação** — Unifran (Franca-SP) — cursando, iniciando o 2º semestre
 - **Inglês** — KNN Idiomas — cursando
 - **Google AI** — Certificados via Coursera (2026)
-- **Marketing Digital** — 50h (EuroAlglo Cursos)
-- **Informática Básica** — 50h (EuroAlglo Cursos)
+- **Marketing Digital** — 50h (Euro Anglo Cursos)
+- **Informática Básica** — 50h (Euro Anglo Cursos)
 - **Confeccionador de Calçados** — 800h (SENAI)
 
 
