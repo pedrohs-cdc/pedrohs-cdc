@@ -82,7 +82,7 @@ Mais de 5 anos de experiência nas áreas administrativa e de logística, hoje a
 | Auxiliar de Escritório | A C F Sobottka Transportes |
 | Expedidor(a) | Logistic Serviços em Controle de Expedição e Estoque |
 | Auxiliar de Escritório | A C F Sobottka Transportes |
-| Aprendiz — Confecção de Calçados | Ferricelli Indústria e Comércio de Calçados |
+| Aprendiz — Confecção de Calçados / Adm | Ferricelli Indústria e Comércio de Calçados |
 
 ---
 
