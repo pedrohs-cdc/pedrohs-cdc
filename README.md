@@ -69,23 +69,6 @@ Depois de mais de 5 anos atuando nas áreas administrativa e de logística, deci
 
 ---
 
-### Experiência Profissional
-
-Mais de 5 anos de experiência nas áreas administrativa e de logística, hoje aplicados à organização, disciplina e resolução de problemas no desenvolvimento de software:
-
-| Cargo | Empresa |
-|---|---|
-| Auxiliar de Expedição | Royal Calçados e Confecções |
-| Recepcionista II | Clínica de Apoio Amor Saúde Franca |
-| Auxiliar de Escritório | FCA Transportes |
-| Auxiliar de Produção | Piso Protector E.V.A. |
-| Auxiliar de Escritório | A C F Sobottka Transportes |
-| Expedidor(a) | Logistic Serviços em Controle de Expedição e Estoque |
-| Auxiliar de Escritório | A C F Sobottka Transportes |
-| Aprendiz — Confecção de Calçados / Adm | Ferricelli Indústria e Comércio de Calçados |
-
----
-
 ### Formação & Cursos
 
 - **Ciência da Computação** — Unifran (Franca-SP) — cursando, iniciando o 2º semestre
