@@ -36,9 +36,9 @@ Depois de mais de 5 anos atuando nas áreas administrativa e de logística, deci
 | [Tower Defense Espacial](https://tower-defense-espacial.vercel.app/) | Jogo 2D de Tower Defense | Atividade da Faculdade |
 | [PromptQuest](https://prompt-quest-sigma.vercel.app/) | Jogo de engenharia de prompt com 20+ desafios, integrado à API da Claude (Anthropic) | Atividade da Faculdade |
 | [Sloward Barber](https://slowardbarber.vercel.app/) | Site completo de barbearia: agendamento on-line, e-mail de confirmação, painel admin, back-end, front-end e banco de dados | Atividade da Faculdade |
-| [Villa Bertoni — Chaveamento de Sinuca](https://villa-bertoni.vercel.app/) | Sistema de chaveamento para campeonato de sinuca em duplas, com front-end, back-end (API) e persistência de dados | Pessoal |
 | [Quiz — Engenharia de Prompt](https://quiz-ia-zeta.vercel.app/) | Simulado de provas da faculdade sobre engenharia de prompt | Estudos da Faculdade |
 | [Quiz — Python](https://quiz-py.vercel.app/) | Simulado de provas da faculdade sobre Python | Estudos da Faculdade |
+| [Villa Bertoni — Chaveamento de Sinuca](https://villa-bertoni.vercel.app/) | Sistema de chaveamento para campeonato de sinuca em duplas, com front-end, back-end (API) e persistência de dados | Pessoal |
 | Controle de Gastos | Registro de gastos diários e mensais, com sincronização em nuvem | Pessoal |
 | Loja de Roupas Slw *(em construção)* | Loja de roupas streetwear — projeto pessoal ainda em desenvolvimento | Pessoal |
 
